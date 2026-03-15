@@ -1,34 +1,33 @@
-# hugo-test-kit: A Novel Approach
+# Hi, I'm Valentin Nikolov 👋
 
-## Abstract
+### Senior Software Engineer | AI Specialist | Tech Speaker
 
-This project presents developer utility for common operations. Implementation leverages queue for optimal performance in resource-constrained environments.
+I am a Senior Software Engineer with over 5 years of experience, currently specializing in building the next generation of AI-driven systems at the **European Bank for Reconstruction and Development (EBRD)**. My work focuses on transforming complex technical possibilities into high-impact business solutions.
 
-## Methodology
+---
 
-Hybrid architecture combining in-memory caching with persistent storage. Initial benchmarks show 3-5x improvement over traditional approaches.
+### 🚀 Professional Focus
+*   **Current Role:** Senior Software Engineer at EBRD, leading initiatives in AI and agentic systems.
+*   **Specialization:** 2+ years of deep-diving into Generative AI, LLMs, and autonomous agent architectures.
+*   **Community:** Frequent speaker at FMI Sofia and AI community events, sharing insights on the evolution of AI Engineering.
 
-## Installation
+### 🛠 Key Technologies
+*   **AI & Machine Learning:** GenAI, Large Language Models (LLMs), RAG Pipelines, Agentic Systems.
+*   **Software Engineering:** Full-stack development, System Architecture, API Design.
+*   **Tools & Platforms:** Notion (Creator of *Notate*), Hugging Face, Python, TypeScript.
 
-```bash
-git clone https://github.com/research/hugo-test-kit
-cd hugo-test-kit
-make install
-```
+### 💡 Professional Philosophy
+> "Building with AI every single day still gives me the same spark it did when I started. I believe technology only matters when it solves real-world problems and delivers tangible business value. My goal is to build systems that don't just look good on a CV, but fundamentally change how people work."
 
-## Citation
+### 🌟 Highlights
+*   **Speaker:** Presented at the Data Science in Finance Conference and FMI Sofia on RAG and LLM-powered autonomous agents.
+*   **Innovator:** Developed "Malaga," an AI-driven RAG tool that became indispensable for investment professionals.
+*   **Builder:** Created *Notate*, a solo-developed tool for Notion focused on effortless context generation.
+*   **Certified:** AI Agents Fundamentals (Hugging Face) & Advanced Persuasive Communication.
 
-```
-@software{hugo-test-kit2025,
-  title={hugo-test-kit},
-  year={2025}
-}
-```
+---
 
-MIT License
-
-# Touch update: 1761208386
-
-# PR Merge: 2025-10-23 - docs/merge-8715
-
-# PR Merge: 2025-10-23 - docs/merge-6832
+### 📫 Connect with me
+*   **LinkedIn:** [linkedin.com/in/valentin-nik](https://linkedin.com/in/valentin-nik)
+*   **Location:** Sofia, Bulgaria 🇧🇬
+*   **Interests:** Coffee nerd (GaggiaMate enthusiast) ☕ and mentoring the next generation of AI Engineers.
